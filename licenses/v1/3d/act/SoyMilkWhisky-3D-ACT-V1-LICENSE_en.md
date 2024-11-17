@@ -2,7 +2,7 @@
 
 Copyright (C) 2024 <https://github.com/skys-mission/SoyMilkWhisky-Licenses>
 
-Version 1.0, Patch 0, November 2024
+Version 1.0, Patch 1, November 2024
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -72,5 +72,9 @@ Data Citation Statement: Must include at least the author's attribution, and opt
 - Any form of changes to motion files using AI technology must comply with [4-Regarding Motion File Modifications](#4-regarding-motion-file-modifications)
 - Video works under [2-1 Non-commercial Personal Video Production and Public Internet Release](#2-1-non-commercial-personal-video-production-and-public-internet-release) are not restricted by AI-related regulations (when video authors deem unnecessary)
 
-# 7-Other
+# 7-Disclaimer
+
+The author bears no responsibility for any adverse consequences resulting from the use of this action file. Any and all liabilities arising from the use of this action file shall be borne by the user.
+
+# 8-Other
 The original author is not bound by the contents of this agreement

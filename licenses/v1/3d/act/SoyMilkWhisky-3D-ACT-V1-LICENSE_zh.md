@@ -2,7 +2,7 @@
 
 Copyright (C) 2024 <https://github.com/skys-mission/SoyMilkWhisky-Licenses>
 
-Version 1.0, Patch 0, November 2024
+Version 1.0, Patch 1, November 2024
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -72,5 +72,9 @@ of this license document, but changing it is not allowed.
 - 使用AI技术对动作文件进行的任何形式的变化需要符合[4-关于修改动作文件](#4-关于修改动作文件)
 - 在[2-1非商业个人视频制作与互联网公开发布](#2-1非商业个人视频制作与互联网公开发布)内的视频作品不受到AI相关规定的限制（在视频作者认为不需要的时候）
 
-# 7-其它
+# 7-免责声明
+
+使用本动作文件造成的任何不良后果均与原作者无关，任何责任原作者均不承担。使用本动作文件后果由使用者承担。
+
+# 8-其它
 原作者不受本协议内容约束
